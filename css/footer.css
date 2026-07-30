@@ -1,0 +1,12 @@
+
+.rodape {
+    text-align: center;
+    height: 100px;
+    align-content: center;
+}
+
+.rodape p > img {
+    width: 16px;
+    vertical-align: middle;
+}
+

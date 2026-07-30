@@ -1,0 +1,23 @@
+
+.formater-list p, ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.content-card > p {
+    margin-bottom: 30px;
+}
+
+.card-travel > img {
+margin-top: 40px;
+}
+
+.formater-list > p {
+    font-weight: 700;
+}
+
+.finalizacao {
+    text-align: center;
+}
+
+#cor-hist {color: var(--accent-blue); font-weight: 700;}
